@@ -10,3 +10,7 @@ The data structure is particularly useful when applications require frequent acc
 - Retrieve the minimum or maximum value
 - Remove the minimum or maximum value
 - Display the heap contents to the screen or to a file
+
+---
+
+If you would like to learn more, please read the [specification.md](specification.md).
